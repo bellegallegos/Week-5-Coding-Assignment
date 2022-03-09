@@ -1,6 +1,6 @@
 # Week-5-Coding-Assignment
 
 ## Description
-Created a Menu that displayed Teams and Players. 
+Created a Menu that displayed what day and class an instructor is teaching. 
 
-The Menu allows for Teams and Players to be Created, Deleted and Viewed.
+The Menu allows for a schedule to be Created, Deleted and Viewed.
